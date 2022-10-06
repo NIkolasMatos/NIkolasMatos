@@ -1,4 +1,4 @@
-<h1> Oi, Eu sou o Nikolas!</h1>
+<h2> Oi, Eu sou o Nikolas!</h2>
 
 <h3> Seja  bem vindo(a) ao meu GitHub!</h3>
 <p> Estudo programação desde Agosto com a Labenu,<br>e Python desde Janeiro por conta própria!<br>Ai embaixo estão meus links! Sinta-se à vontade para acessa-los!</p>
